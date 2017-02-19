@@ -1,0 +1,19 @@
+.container {
+  display: flex;
+  align-items: stretch;
+}
+.md {
+  border-left: 3px solid pink;
+  width:50%;
+}
+textarea:focus {
+  outline: none;
+}
+textarea {
+  width: 50%;
+  height: auto;
+	border-right: 3px solid pink;
+	padding: 5px;
+	font-family: Tahoma, sans-serif;
+  resize: none;
+}
