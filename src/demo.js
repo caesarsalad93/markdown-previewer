@@ -1,5 +1,10 @@
 //Samples taken from https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-let demo = `Headers
+let demo = `
+\`\`\`
+SAMPLES ARE TAKEN FROM THIS MARKDOWN CHEATSHEET
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+\`\`\`
+Headers
 ---
 # H1
 ## H2
